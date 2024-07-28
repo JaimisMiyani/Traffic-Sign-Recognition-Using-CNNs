@@ -24,6 +24,7 @@ pip install numpy pandas tensorflow opencv-python pillow matplotlib seaborn scik
 
 ## Dataset Path
 
+You can download the GTSRB dataset from Kaggle using the following link: [GTSRB - German Traffic Sign Recognition Benchmark](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign). Once you have downloaded the dataset, you can unarchive it and name the folder `assets`.
 Before running the code, ensure that you have set the correct path to your dataset. The dataset should be organized and placed in the specified directory. Update the `assets_path` variable in the code to point to the location of your dataset.
 
 ```python
